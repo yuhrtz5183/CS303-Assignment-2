@@ -7,10 +7,12 @@ Once the user runs the program, the following will be shown in the console:
   * The second list after removing an element from a given index
   * The third list after popping the front and back elements
   * As well as if the list is empty or not
+    
 Next, the user will see the Professional Employee and under that will be:
   * Weekly salary
   * Healthcare Contributions
   * Vacation Days
+    
 Finally, the user will see the Nonprofessional Employee and under that will be:
   * Weekly salary
   * Healthcare Contributions
